@@ -84,6 +84,7 @@ Build the Surefire project using **Maven 3.6.3+** and **JDK 8+**.
   * In IntelliJ, select _Maven > Profiles_ and check `ide-development`
 
 ### Deploying web site
+### Test
 
 See http://maven.apache.org/developers/website/deploy-component-reference-documentation.html
 
